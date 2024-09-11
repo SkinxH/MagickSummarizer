@@ -1,6 +1,6 @@
 # MagickSummarizer
 
-This Json file represent nodes to be used in Magickml, a visual programming interface to deploy Artificial Intelligence agents.
+This Json file represent nodes to be used in Magickml, a visual programming interface to deploy Artificial Intelligence agents. This creation is the result of my Bachelor thesis, where I explored the perception and utilization of AI summaries by Business students.
 
 This agent is to be deployed on discord or Slack, and summarizes educational content (Focused on Business Administration content) on a details level between 1-5 depending on the user's request
 
